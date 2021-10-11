@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pinalzala
 - 👀 I’m interested in Blockchain, Solidity, API, Automation, React Native, Shopify and PHP
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on dev community
+- 💞️ I’m looking to collaborate with dev community
 - 📫 Reach me at pinal@pinalzala.me
 
 <!---
