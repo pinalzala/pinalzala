@@ -1,10 +1,10 @@
 
 ![This is an image](https://pinalzala.me/images/PinalSoftwareEngineer.png)
-
+#  Let's Connect
 <p align=center">
-  <img src="https://pinalzala.me/images/websitepinalzala.png" width="180" height="35" />
-  <img src="https://pinalzala.me/images/linkdinpinalzala.png" width="180" height="35" /> 
-  <img src="https://pinalzala.me/images/twitterpinalzala2.png" width="180" height="35" />
+  <a href="http://pinalzala.me/" target="_blank"><img src="https://pinalzala.me/images/websitepinalzala.png" width="180" height="35" /> </a>
+  <a href="https://www.linkedin.com/in/pinalzala/" target="_blank"><img src="https://pinalzala.me/images/linkdinpinalzala.png" width="180" height="35" />     <a/>
+  <a href="https://twitter.com/ZalaPinal"><img src="https://pinalzala.me/images/twitterpinalzala2.png" width="180" height="35" /> </a>
 </p>
 
 
@@ -15,6 +15,11 @@
 - 🌱 I love coding!!
 - 💞️ I’m looking to collaborate with dev community
 - 📫 Reach me at pinal@pinalzala.me
+
+# Technologies
+
+#   Projects 
+
 
 
 <!---
