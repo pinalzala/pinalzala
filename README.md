@@ -1,5 +1,5 @@
 
-![This is an image](https://pinalzala.me/images/banner.png)
+![This is an image](https://pinalzala.me/images/PinalSoftwareEngineer.png)
 
 <p align=center">
   <img src="https://pinalzala.me/images/websitepinalzala.png" width="180" height="35" />
