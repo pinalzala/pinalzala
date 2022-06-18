@@ -21,7 +21,7 @@
 #   Projects 
 | React Customizable Image And Video Gallery   | NodeJs ExpressJs MySql Admin Panel   |
 | :---: | :---: | 
-| <img src="https://vginfotec.xyz/envato_script/image_crop.gif" width="500" height="400" /> | <img src="https://vginfotec.xyz/envato_script/admin_panel.gif" width="500" height="400" /> | 
+| <img src="https://vginfotec.xyz/envato_script/image_crop.gif" width="500" height="400" /> | <img src="https://vginfotec.xyz/envato_script/adminpanel.gif" width="500" height="400" /> | 
 
 
 
