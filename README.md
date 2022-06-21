@@ -19,18 +19,18 @@
 # Technologies
 
  <p align=center">
-  <img src="https://vginfotec.xyz/envato_script/react_native.png" width="122" height="21" /> 
-  <img src="https://vginfotec.xyz/envato_script/react_js.png" width="122" height="21" /> 
-  <img src="https://vginfotec.xyz/envato_script/nodejs.png" width="122" height="21" />
-  <img src="https://vginfotec.xyz/envato_script/EXPRESS.png" width="122" height="21" />  
-  <img src="https://vginfotec.xyz/envato_script/api.png" width="122" height="21" /> 
-  <img src="https://vginfotec.xyz/envato_script/AUTOMATION.png" width="122" height="21" /> 
-  <img src="https://vginfotec.xyz/envato_script/mysql.png" width="122" height="21" /> 
-  <img src="https://vginfotec.xyz/envato_script/mongo_db.png" width="122" height="21" />
-  <img src="https://vginfotec.xyz/envato_script/shopify.png" width="122" height="21" /> 
-  <img src="https://vginfotec.xyz/envato_script/solidity.png" width="122" height="21" /> 
-  <img src="https://vginfotec.xyz/envato_script/blockchain.png" width="122" height="21" /> 
-  <img src="https://vginfotec.xyz/envato_script/php.png" width="122" height="21" />  
+  <img src="https://vginfotec.xyz/envato_script/react_native.png" width="122" height="22" /> 
+  <img src="https://vginfotec.xyz/envato_script/react_js.png" width="122" height="22" /> 
+  <img src="https://vginfotec.xyz/envato_script/nodejs.png" width="122" height="22" />
+  <img src="https://vginfotec.xyz/envato_script/EXPRESS.png" width="122" height="22" />  
+  <img src="https://vginfotec.xyz/envato_script/api.png" width="122" height="22" /> 
+  <img src="https://vginfotec.xyz/envato_script/AUTOMATION.png" width="122" height="22" /> 
+  <img src="https://vginfotec.xyz/envato_script/mysql.png" width="122" height="22" /> 
+  <img src="https://vginfotec.xyz/envato_script/mongo_db.png" width="122" height="22" />
+  <img src="https://vginfotec.xyz/envato_script/shopify.png" width="122" height="22" /> 
+  <img src="https://vginfotec.xyz/envato_script/solidity.png" width="122" height="22" /> 
+  <img src="https://vginfotec.xyz/envato_script/blockchain.png" width="122" height="22" /> 
+  <img src="https://vginfotec.xyz/envato_script/php.png" width="122" height="22" />  
 </p>     
   
  
